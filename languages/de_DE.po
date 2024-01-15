@@ -1,0 +1,559 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Akom Ltd Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-01 07:14+0000\n"
+"PO-Revision-Date: 2023-03-09 15:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: AkomTranslate"
+
+#: front-page.php:111
+msgid ""
+" Dach każdego budynku, po dłuższym wystawieniu na warunki atmosferyczne i "
+"zanieczyszczenia, zaczyna tracić swój pierwotny wygląd. Pojawiają się na nim "
+"warstwy zabrudzeń, mech, a nawet pleśń. "
+msgstr ""
+"Das Dach eines Gebäudes verliert nach längerer Witterungs- und "
+"Umweltbelastung allmählich sein ursprüngliches Aussehen. Darauf bilden sich "
+"Schichten von Schmutz, Moos und sogar Schimmel."
+
+#: contact-page.php:52
+msgid "+48 721 406 219"
+msgstr "01627746540"
+
+#: functions.php:15
+msgid "721 406 219"
+msgstr "01627746540"
+
+#: contact-page.php:35
+msgid "Adres"
+msgstr "Adresse"
+
+#: front-page.php:45
+msgid "AKOM - kilka słów o nas"
+msgstr "AKOM - ein paar Worte über uns"
+
+#: footer.php:15
+msgid ""
+"AKOM Ltd oferuje kompleksowe wykonawstwo prac z zakresu wysokociśnieniowego "
+"czyszczenia dachów, elewacji oraz kostki brukowej każdego rodzaju."
+msgstr ""
+"AKOM GmbH bietet komplexe Ausführung von Arbeiten im Bereich der "
+"Hochdruckreinigung von Dächern, Fassaden und allen Arten von Pflastersteinen "
+"an."
+
+#: front-page.php:47
+msgid ""
+"AKOM Ltd oferuje kompleksowe wykonawstwo prac z zakresu wysokociśnieniowego "
+"czyszczenia dachów, elewacji oraz kostki brukowej każdego rodzaju.\n"
+"             Jako profesjonalna i doświadczona firma dbamy o terminowość, "
+"konkurencyjne ceny a przede wszystkim o najwyższą jakość wykonywanych usług."
+msgstr ""
+"AKOM GmbH bietet komplexe Ausführung von Arbeiten im Bereich der "
+"Hochdruckreinigung von Dächern, Fassaden und allen Arten von Pflastersteinen "
+"an.\n"
+"              Als professionelles und erfahrenes Unternehmen kümmern wir uns "
+"um Pünktlichkeit, wettbewerbsfähige Preise und vor allem um die höchste "
+"Qualität der Dienstleistungen."
+
+#. Description of the theme
+msgid "Akom Ltd szablon strony firmy Akom."
+msgstr "Akom Ltd Website-Vorlage von Akom."
+
+#. Name of the theme
+msgid "Akom Ltd Theme"
+msgstr "Akom Ltd Theme"
+
+#: functions.php:14
+msgid "biuro@akom-ltd.com"
+msgstr "biuro@akom-ltd.com"
+
+#: cennik-page.php:129
+msgid "Cena:  od 100 m"
+msgstr "Preis: od 100 m"
+
+#: cennik-page.php:62
+msgid "Cena: od 10 - 15 zł m"
+msgstr "Preis: ab 3 Euro m"
+
+#: cennik-page.php:96
+msgid "Cena: od 10-15 zł m"
+msgstr "Preis: 4-5 euro m"
+
+#: cennik-page.php:26
+msgid "Cena: od 13 do 18 zł m"
+msgstr "Preis: 5-8 euro m"
+
+#: cennik-page.php:199
+msgid "Cena: od 15 zł m"
+msgstr "Preis: 5 euro m"
+
+#: cennik-page.php:164
+msgid "Cena: od 55 zł m"
+msgstr "Preis: 16-19 euro m"
+
+#: cennik-page.php:16
+msgid "Cennik"
+msgstr "Preisliste"
+
+#. Name of the template
+msgid "cennik"
+msgstr "preisliste"
+
+#. Name of the template
+msgid "Contact"
+msgstr "Kontakt"
+
+#: front-page.php:94
+msgid "Czym się zajmujemy? "
+msgstr "Was wir tun?"
+
+#: footer.php:66 front-page.php:129
+msgid "Czyszczenie elewacji"
+msgstr "Fassadenreinigung"
+
+#: offer-page.php:59
+msgid "Czyszczenie elewacji "
+msgstr "Fassadenreinigung"
+
+#: footer.php:67
+msgid "Czyszczenie kostki"
+msgstr "Würfelreinigung"
+
+#: cennik-page.php:95 front-page.php:119 offer-page.php:48
+msgid "Czyszczenie kostki brukowej"
+msgstr "Pflastersteine ​​reinigen"
+
+#: cennik-page.php:198
+msgid "Czyszczenie rynien"
+msgstr "Dachrinnenreinigung"
+
+#: offer-page.php:38
+msgid ""
+"Dach każdego budynku, po dłuższym wystawieniu na warunki atmosferyczne i "
+"zanieczyszczenia, zaczyna tracić swój pierwotny wygląd. Pojawiają się na nim "
+"warstwy zabrudzeń, mech, a nawet pleśń. Zazielenienie jest szczególnie "
+"widoczne w miejscach zacienionych i wilgotnych, a porosty, które z czasem "
+"pokryją cały dach, mogą przyspieszyć erozję dachówek lub blachy. Jedynym "
+"sposobem, aby temu zapobiec, jest regularne profesjonalne mycie dachu co "
+"kilka lat.\n"
+"\n"
+"Aby odświeżyć wygląd swojego dachu, oferujemy kompleksowe mycie dachówek "
+"ceramicznych, cementowych i blachy. Do tego celu używamy specjalistycznych "
+"myjek wysokociśnieniowych, gorącej wody oraz odpowiednio dobranych "
+"detergentów. Nasi specjaliści wiedzą, jakie środki najlepiej sprawią się "
+"podczas czyszczenia dachu, aby uzyskać trwały efekt.\n"
+"\n"
+"Jeśli jesteś ciekaw, jakie będą efekty, zapraszamy do skontaktowania się z "
+"nami i przekonania się na własnej skórze, jak wygląda czyszczenie dachów w "
+"zachodniopomorskim. Zachęcamy również do skorzystania z naszych usług "
+"impregnacji, która zabezpieczy Twój dach na kilka kolejnych lat."
+msgstr ""
+"Das Dach eines Gebäudes verliert nach längerer Witterungs- und "
+"Umweltbelastung allmählich sein ursprüngliches Aussehen. Darauf bilden sich "
+"Schichten von Schmutz, Moos und sogar Schimmel. Begrünung ist besonders an "
+"schattigen und feuchten Stellen sichtbar und Flechten, die mit der Zeit das "
+"gesamte Dach bedecken, können die Erosion von Ziegeln oder Blechen "
+"beschleunigen. Die einzige Möglichkeit, dies zu verhindern, besteht darin, "
+"Ihr Dach alle paar Jahre professionell reinigen zu lassen.\n"
+"\n"
+"Um das Erscheinungsbild Ihres Daches aufzufrischen, bieten wir eine "
+"umfassende Reinigung von Keramik- und Zementfliesen sowie Blechen an. Dazu "
+"verwenden wir spezialisierte Hochdruckreiniger, heißes Wasser und "
+"entsprechend ausgewählte Reinigungsmittel. Unsere Spezialisten wissen, "
+"welche Mittel bei der Dachreinigung am besten wirken, um eine nachhaltige "
+"Wirkung zu erzielen.\n"
+"\n"
+"Wenn Sie neugierig auf die Auswirkungen sind, laden wir Sie ein, uns zu "
+"kontaktieren und selbst zu sehen, wie die Dachreinigung in "
+"Zachodniopomorskie aussieht. Wir empfehlen Ihnen auch, unsere "
+"Imprägnierdienste in Anspruch zu nehmen, die Ihr Dach für die nächsten Jahre "
+"schützen werden."
+
+#: front-page.php:19
+msgid "dachów i elewacji"
+msgstr "dächer und Fassaden"
+
+#: front-page.php:23
+#| msgid "Dachów, Elewacji, Kostki brukowej, fotowoltaiki, szyb i przeszkleń"
+msgid ""
+"Dachów, Elewacji, Kostki brukowej, fotowoltaiki, szyb i przeszkleń, usuwanie "
+"grafiti"
+msgstr ""
+"Dächer, Fassaden, Kopfsteinpflaster, Photovoltaik, Glas und Verglasung, "
+"Graffitientfernung"
+
+#: front-page.php:132
+msgid ""
+"Elewacja każdego domu ulega zabrudzeniu po kilku latach. Warunki "
+"atmosferyczne, otoczenie oraz jakość materiałów użytych do ocieplenia mają "
+"na nią największy wpływ."
+msgstr ""
+"Die Fassade jedes Hauses verschmutzt nach einigen Jahren. Die "
+"Witterungsbedingungen, die Umwelt und die Qualität der für die Isolierung "
+"verwendeten Materialien haben den größten Einfluss darauf."
+
+#: offer-page.php:60
+msgid ""
+"Elewacja każdego domu ulega zabrudzeniu po kilku latach. Warunki "
+"atmosferyczne, otoczenie oraz jakość materiałów użytych do ocieplenia mają "
+"na nią największy wpływ. Jeśli dom znajduje się blisko wysokich drzew i "
+"część elewacji jest zacieniona, to pojawią się grzyby, mchy czy porosty, "
+"które pogarszają wygląd ścian i wymagają renowacji.\n"
+"\n"
+"Aby przywrócić świeżość każdego domu z zewnątrz, oferujemy mycie elewacji "
+"metodą niskociśnieniową, wykorzystując specjalistyczny sprzęt oraz "
+"biodegradowalne płyny. Na życzenie klienta, po wyczyszczeniu elewacji, "
+"wykonujemy również impregnację tynku. "
+msgstr ""
+"588 / 5 000\n"
+"Wyniki tłumaczenia\n"
+"Tłumaczenie\n"
+"Die Fassade jedes Hauses verschmutzt nach einigen Jahren. Die "
+"Witterungsbedingungen, die Umwelt und die Qualität der für die Isolierung "
+"verwendeten Materialien haben den größten Einfluss darauf. Wenn das Haus in "
+"der Nähe von hohen Bäumen steht und ein Teil der Fassade beschattet ist, "
+"treten Pilze, Moose oder Flechten auf, die das Erscheinungsbild der Wände "
+"beeinträchtigen und eine Renovierung erfordern.\n"
+"\n"
+"Um die Frische jedes Hauses von außen wiederherzustellen, bieten wir eine "
+"Niederdruckreinigung der Fassade mit Spezialgeräten und biologisch "
+"abbaubaren Flüssigkeiten an. Auf Kundenwunsch imprägnieren wir nach der "
+"Fassadenreinigung auch den Putz."
+
+#. Name of the template
+msgid "Gallery"
+msgstr "Gallery"
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://web.fixars.pl"
+msgstr "https://web.fixars.pl"
+
+#: footer.php:65 front-page.php:139
+msgid "Impregnacja posesji"
+msgstr "Eigenschaft Imprägnierung"
+
+#: offer-page.php:70
+msgid "Impregnacja powierzchni "
+msgstr "Oberflächenimprägnierung"
+
+#: template-parts/content-archive.php:25 template-parts/content.php:30
+msgid "Kategorie"
+msgstr "Kategorien"
+
+#: cennik-page.php:27 cennik-page.php:63 cennik-page.php:97 cennik-page.php:130
+#: cennik-page.php:165 cennik-page.php:200
+msgid "Każde zlecenie wyceniamy indywidualnie"
+msgstr "Wir bepreisen jede Bestellung individuell"
+
+#: contact-page.php:15 contact-page.php:18 footer.php:56 footer.php:56
+#: front-page.php:26
+msgid "Kontakt"
+msgstr "Kontakt-DE"
+
+#: front-page.php:26
+msgid "Kontakt z nami"
+msgstr "Kontaktiere uns"
+
+#: front-page.php:122
+msgid ""
+"Kostka brukowa z betonu to popularny materiał do tworzenia trwałych "
+"chodników. Niestety, ze względu na swoją szorstką powierzchnię, łatwo ulega "
+"zabrudzeniu i wchłania wodę, co powoduje, że szybko traci swój estetyczny "
+"wygląd."
+msgstr ""
+"Betonpflastersteine ​​sind ein beliebtes Material für die Herstellung "
+"dauerhafter Pflaster. Leider wird es aufgrund seiner rauen Oberfläche leicht "
+"verschmutzt und nimmt Wasser auf, wodurch es schnell sein ästhetisches "
+"Aussehen verliert."
+
+#: offer-page.php:50
+msgid ""
+"Kostka brukowa z betonu to popularny materiał do tworzenia trwałych "
+"chodników. Niestety, ze względu na swoją szorstką powierzchnię, łatwo ulega "
+"zabrudzeniu i wchłania wodę, co powoduje, że szybko traci swój estetyczny "
+"wygląd. Plamy z oleju, opon, sadza i mech to niekorzystne dodatki, które "
+"znacznie wpływają na wygląd podjazdu czy parkingu.\n"
+"Dlatego oferujemy kompleksowe czyszczenie kostki brukowej, niezależnie od "
+"tego, czy to chodnik, podjazd czy parking. Aby to zrobić, stosujemy "
+"specjalne narzędzia, takie jak zamknięte nakładki Mosmatic, które "
+"zminimalizują rozbryzgi błota, a także odkurzacze przemysłowe z funkcją "
+"odpompowywania wody wraz z nieczystościami.\n"
+"Po dokładnym czyszczeniu, zaspoinujemy kostkę wypłukanym kwarcowym piaskiem "
+"i zabezpieczymy ją dwiema warstwami silikatowo-polimerowych impregnatów, aby "
+"zapewnić trwałą ochronę przed zanieczyszczeniami i przedłużyć jej żywotność."
+msgstr ""
+"Betonpflastersteine ​​sind ein beliebtes Material für die Herstellung "
+"dauerhafter Pflaster. Leider wird es aufgrund seiner rauen Oberfläche leicht "
+"verschmutzt und nimmt Wasser auf, wodurch es schnell sein ästhetisches "
+"Aussehen verliert. Öl-, Reifen-, Ruß- und Moosflecken sind ungünstige "
+"Zusätze, die das Erscheinungsbild der Einfahrt oder des Parkplatzes "
+"erheblich beeinträchtigen.\n"
+"Deshalb bieten wir eine umfassende Reinigung von Pflastersteinen an, egal ob "
+"Gehweg, Einfahrt oder Parkplatz. Dazu verwenden wir Spezialwerkzeuge wie "
+"geschlossene Mosmatic-Kappen, die Schlammspritzer minimieren, sowie "
+"Industriestaubsauger mit der Funktion, Wasser zusammen mit Schmutz zu pumpen."
+"\n"
+"Nach gründlicher Reinigung füllen wir den Würfel mit gespültem Quarzsand und "
+"schützen ihn mit zwei Schichten Silikat-Polymer-Imprägnierung, um einen "
+"dauerhaften Schutz vor Verunreinigungen zu gewährleisten und seine "
+"Lebensdauer zu verlängern."
+
+#: front-page.php:18
+msgid "Malowanie"
+msgstr "Malen"
+
+#: front-page.php:16
+msgid ""
+"Malowanie dachów i elewacji,\n"
+"Mycie Wysokociśnieniowe"
+msgstr ""
+"Dächer und Fassaden streichen,\n"
+"Hochdruckreinigung"
+
+#: front-page.php:20
+msgid "Mycie"
+msgstr "Waschen"
+
+#: offer-page.php:37
+msgid "Mycie Dachów"
+msgstr "Dachreinigung"
+
+#: footer.php:68 front-page.php:108
+msgid "Mycie dachów"
+msgstr "Dach waschen"
+
+#: footer.php:64
+msgid "Mycie hal"
+msgstr "Hallenreinigung"
+
+#: front-page.php:149 offer-page.php:29
+msgid "Mycie hal przemysłowych"
+msgstr "Reinigung von Industriehallen"
+
+#: cennik-page.php:25
+msgid "Mycie i czyszczenie elewacji "
+msgstr "Fassadenreinigung und Reinigung"
+
+#: cennik-page.php:61
+msgid "Mycie i czyszczenie oszkleń i fotowoltaiki wodą zdemiralizowaną"
+msgstr ""
+"Waschen und Reinigen von Verglasungen und Photovoltaik mit demineralisiertem "
+"Wasser"
+
+#: cennik-page.php:163
+msgid "Mycie i malowanie dachów"
+msgstr "Dachreinigung und Lackierung"
+
+#: front-page.php:57
+msgid "Najnowoczeszniejszy sprzęt"
+msgstr "Modernste Ausstattung"
+
+#: archive.php:31 index.php:37
+msgid "Next"
+msgstr "Nächste"
+
+#: 404.php:12
+msgid "Nie ma takiej strony... wpisano nieprawidłowy adres "
+msgstr "Keine solche Seite... ungültige Adresse eingegeben"
+
+#: index.php:42
+msgid "Nothing to display."
+msgstr "Nichts zu zeigen"
+
+#: footer.php:53
+msgid "O nas"
+msgstr "Über uns"
+
+#: footer.php:54 footer.php:61 offer-page.php:16 offer-page.php:19
+msgid "Oferta"
+msgstr "Angebot"
+
+#: footer.php:64 footer.php:65 footer.php:66 footer.php:67 footer.php:68
+#: front-page.php:113 front-page.php:123 front-page.php:133 front-page.php:143
+#: front-page.php:153
+msgid "Oferta/"
+msgstr "Angebot/"
+
+#. Name of the template
+msgid "Offer"
+msgstr "Offer"
+
+#: template-parts/content-archive.php:21 template-parts/content.php:26
+msgid "Opublikowany przez"
+msgstr "Opublikowany przez"
+
+#: template-parts/content-single.php:22
+msgid "Pages"
+msgstr "Seiten"
+
+#: front-page.php:75
+msgid "Posiadamy wolne terminy - zadzwoń/ napisz i umów się na usługę! "
+msgstr ""
+"Wir haben freie Termine - anrufen/schreiben und einen Service vereinbaren!"
+
+#: front-page.php:58
+msgid "Pracujemy tylko na najlepszych narzędziach i sprawdzonej chemii!"
+msgstr "Wir arbeiten nur mit den besten Werkzeugen und bewährter Chemie!"
+
+#: archive.php:30 index.php:36
+msgid "Previous"
+msgstr "Vorherige"
+
+#: cennik-page.php:222 footer.php:55 footer.php:55 front-page.php:178
+#: gallery-page.php:19 gallery-page.php:22 offer-page.php:89
+msgid "Realizacje"
+msgstr "Galerie"
+
+#: front-page.php:66
+msgid "Setki zaufanych klientów"
+msgstr "Hunderte von vertrauenswürdigen Kunden"
+
+#: cennik-page.php:222 front-page.php:178 offer-page.php:89
+msgid "Sprawdź Realizacje"
+msgstr "Überprüfen Sie die Erkenntnisse"
+
+#: cennik-page.php:221 front-page.php:177 offer-page.php:88
+msgid "Sprawdź wykonane prace, przez naszych specjalistów"
+msgstr "Überprüfen Sie die Arbeit unserer Spezialisten"
+
+#: contact-page.php:17 footer.php:52 gallery-page.php:21 offer-page.php:18
+msgid "Strona główna"
+msgstr "Hauptseite"
+
+#: footer.php:95
+msgid "Stworzone przez "
+msgstr "Hergestellt von "
+
+#: template-parts/content-archive.php:29 template-parts/content.php:34
+msgid "Tagi"
+msgstr "Stichworte"
+
+#: contact-page.php:51 footer.php:78
+msgid "Telefon"
+msgstr "Telefonnummer"
+
+#: functions.php:11
+msgid "Ustawienia Szablonu"
+msgstr "Vorlageneinstellungen"
+
+#: cennik-page.php:128
+msgid "Usuwanie grafiti"
+msgstr "Graffiti-Entfernung"
+
+#: front-page.php:152
+msgid ""
+"W produkcji bardzo ważne jest utrzymanie wysokich standardów higieny oraz "
+"regularne usuwanie kurzu i brudu z powierzchni. Codzienne sprzątanie nie "
+"wystarcza, aby zapobiec zanieczyszczeniu produktów i utrzymaniu czystości w "
+"miejscach trudno dostępnych"
+msgstr ""
+"In der Produktion ist es sehr wichtig, hohe Hygienestandards einzuhalten und "
+"regelmäßig Staub und Schmutz von den Oberflächen zu entfernen. Die tägliche "
+"Reinigung reicht nicht aus, um eine Produktverunreinigung zu verhindern und "
+"schwer zugängliche Stellen sauber zu halten"
+
+#: offer-page.php:30
+msgid ""
+"W produkcji bardzo ważne jest utrzymanie wysokich standardów higieny oraz "
+"regularne usuwanie kurzu i brudu z powierzchni. Codzienne sprzątanie nie "
+"wystarcza, aby zapobiec zanieczyszczeniu produktów i utrzymaniu czystości w "
+"miejscach trudno dostępnych, takich jak ściany, sufity, konstrukcje, maszyny "
+"i inne elementy infrastruktury hali. Kompleksowe czyszczenie hal "
+"produkcyjnych jest niezbędne, aby uniknąć awarii maszyn i poprawić wydajność "
+"produkcji. Od wielu lat oferujemy specjalistyczne usługi czyszczenia hal "
+"produkcyjnych i innych obiektów przemysłowych, bez przerywania produkcji."
+msgstr ""
+"In der Produktion ist es sehr wichtig, hohe Hygienestandards einzuhalten und "
+"regelmäßig Staub und Schmutz von den Oberflächen zu entfernen. Eine tägliche "
+"Reinigung reicht nicht aus, um eine Produktkontamination zu verhindern und "
+"schwer zugängliche Stellen wie Wände, Decken, Konstruktionen, Maschinen und "
+"andere Elemente der Halleninfrastruktur sauber zu halten. Um "
+"Maschinenausfälle zu vermeiden und die Produktionseffizienz zu steigern, ist "
+"eine umfassende Reinigung der Produktionshallen unerlässlich. Seit vielen "
+"Jahren bieten wir spezialisierte Reinigungsleistungen für Produktionshallen "
+"und andere Industrieanlagen ohne Produktionsunterbrechung an."
+
+#: front-page.php:142
+msgid ""
+"Współcześnie prawie każdy dom posiada elewację pokrytą tynkiem, dach pokryty "
+"dachówką oraz kostkę brukową na posesji. Niestety, te popularne materiały "
+"mają jedną wspólną wadę - są bardzo chłonne, co sprzyja pojawieniu się mchów,"
+" plam, wykwitów i innych zanieczyszczeń wraz z wilgocią."
+msgstr ""
+"Heute hat fast jedes Haus eine verputzte Fassade, ein mit Ziegeln gedecktes "
+"Dach und Pflastersteine ​​auf dem Grundstück. Leider haben diese beliebten "
+"Materialien einen gemeinsamen Nachteil: Sie sind sehr saugfähig, was neben "
+"Feuchtigkeit das Auftreten von Moosen, Flecken, Ausblühungen und anderen "
+"Verunreinigungen begünstigt."
+
+#: offer-page.php:71
+msgid ""
+"Współcześnie prawie każdy dom posiada elewację pokrytą tynkiem, dach pokryty "
+"dachówką oraz kostkę brukową na posesji. Niestety, te popularne materiały "
+"mają jedną wspólną wadę - są bardzo chłonne, co sprzyja pojawieniu się mchów,"
+" plam, wykwitów i innych zanieczyszczeń wraz z wilgocią.\n"
+"Aby zapewnić trwałość i estetyczny wygląd wszystkich powierzchni "
+"wymienionych wyżej, proponujemy impregnację. Dzięki swoim właściwościom "
+"hydrofobowym, zapobiega ona pojawieniu się korozji biologicznej. Impregnat "
+"wnika w głąb materiału, tworząc warstwę odporną na ścieranie i trwałą "
+"ochronę przed wilgocią, wykwitami wapiennymi i wszelkimi zanieczyszczeniami."
+"\n"
+"Zapewnia również zwiększoną mrozoodporność, uwydatnia kolor, chroni przed "
+"solami z kół podczas zimy. W przypadku impregnacji kostki brukowej, "
+"zapobiega wsiąkaniu olejów, np. z uszkodzonego samochodu. "
+msgstr ""
+"Heute hat fast jedes Haus eine verputzte Fassade, ein mit Ziegeln gedecktes "
+"Dach und Pflastersteine ​​auf dem Grundstück. Leider haben diese beliebten "
+"Materialien einen gemeinsamen Nachteil: Sie sind sehr saugfähig, was neben "
+"Feuchtigkeit das Auftreten von Moosen, Flecken, Ausblühungen und anderen "
+"Verunreinigungen begünstigt.\n"
+"Um die Haltbarkeit und Ästhetik aller oben aufgeführten Oberflächen zu "
+"gewährleisten, bieten wir eine Imprägnierung an. Dank seiner hydrophoben "
+"Eigenschaften verhindert es das Auftreten von biologischer Korrosion. Die "
+"Imprägnierung dringt tief in das Material ein und bildet eine abriebfeste "
+"Schicht, die dauerhaft vor Feuchtigkeit, Kalkausblühungen und "
+"Verschmutzungen schützt.\n"
+"Es bietet auch eine erhöhte Frostbeständigkeit, verbessert die Farbe und "
+"schützt im Winter vor Radsalzen. Bei der Imprägnierung von Pflastersteinen "
+"verhindert es das Aufsaugen von Ölen, z.B. aus einem beschädigten Auto."
+
+#: front-page.php:21
+msgid "wysokociśnieniowe"
+msgstr "hoher Druck"
+
+#: front-page.php:67
+msgid ""
+"Zaufało nam tysiące firm i osób, dołącz do grona zadowolonych klinetów! "
+msgstr ""
+"Tausende von Unternehmen und Menschen haben uns vertraut, schließen Sie sich "
+"der Gruppe zufriedener Kunden an!"
+
+#: front-page.php:74
+msgid "Zawsze na czas"
+msgstr "Immer pünktlich"
+
+#: cennik-page.php:220 front-page.php:176 offer-page.php:87
+msgid "Zobacz co zrobiliśmy"
+msgstr "Sehen Sie, was wir getan haben"
+
+#: front-page.php:123 front-page.php:133 front-page.php:143 front-page.php:153
+msgid "Zobacz więcej"
+msgstr "Mehr sehen"
+
+#: front-page.php:113
+msgid "Zobacz więcej "
+msgstr "Mehr sehen"
+
+#. Author of the theme
+msgid "Łukasz Rostalski"
+msgstr "Łukasz Rostalski"

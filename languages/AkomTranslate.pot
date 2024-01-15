@@ -1,0 +1,450 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Akom Ltd Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-09 15:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: AkomTranslate"
+
+#: front-page.php:111
+msgid ""
+" Dach każdego budynku, po dłuższym wystawieniu na warunki atmosferyczne i "
+"zanieczyszczenia, zaczyna tracić swój pierwotny wygląd. Pojawiają się na nim "
+"warstwy zabrudzeń, mech, a nawet pleśń. "
+msgstr ""
+
+#: contact-page.php:52
+msgid "+48 721 406 219"
+msgstr ""
+
+#: functions.php:15
+msgid "721 406 219"
+msgstr ""
+
+#: contact-page.php:35
+msgid "Adres"
+msgstr ""
+
+#: front-page.php:45
+msgid "AKOM - kilka słów o nas"
+msgstr ""
+
+#: footer.php:15
+msgid ""
+"AKOM Ltd oferuje kompleksowe wykonawstwo prac z zakresu wysokociśnieniowego "
+"czyszczenia dachów, elewacji oraz kostki brukowej każdego rodzaju."
+msgstr ""
+
+#: front-page.php:47
+msgid ""
+"AKOM Ltd oferuje kompleksowe wykonawstwo prac z zakresu wysokociśnieniowego "
+"czyszczenia dachów, elewacji oraz kostki brukowej każdego rodzaju.\n"
+"             Jako profesjonalna i doświadczona firma dbamy o terminowość, "
+"konkurencyjne ceny a przede wszystkim o najwyższą jakość wykonywanych usług."
+msgstr ""
+
+#. Description of the theme
+msgid "Akom Ltd szablon strony firmy Akom."
+msgstr ""
+
+#. Name of the theme
+msgid "Akom Ltd Theme"
+msgstr ""
+
+#: functions.php:14
+msgid "biuro@akom-ltd.com"
+msgstr ""
+
+#: cennik-page.php:129
+msgid "Cena:  od 100 m"
+msgstr ""
+
+#: cennik-page.php:62
+msgid "Cena: od 10 - 15 zł m"
+msgstr ""
+
+#: cennik-page.php:96
+msgid "Cena: od 10-15 zł m"
+msgstr ""
+
+#: cennik-page.php:26
+msgid "Cena: od 13 do 18 zł m"
+msgstr ""
+
+#: cennik-page.php:199
+msgid "Cena: od 15 zł m"
+msgstr ""
+
+#: cennik-page.php:164
+msgid "Cena: od 55 zł m"
+msgstr ""
+
+#: cennik-page.php:16
+msgid "Cennik"
+msgstr ""
+
+#. Name of the template
+msgid "cennik"
+msgstr ""
+
+#. Name of the template
+msgid "Contact"
+msgstr ""
+
+#: front-page.php:94
+msgid "Czym się zajmujemy? "
+msgstr ""
+
+#: footer.php:66 front-page.php:129
+msgid "Czyszczenie elewacji"
+msgstr ""
+
+#: offer-page.php:59
+msgid "Czyszczenie elewacji "
+msgstr ""
+
+#: footer.php:67
+msgid "Czyszczenie kostki"
+msgstr ""
+
+#: cennik-page.php:95 front-page.php:119 offer-page.php:48
+msgid "Czyszczenie kostki brukowej"
+msgstr ""
+
+#: cennik-page.php:198
+msgid "Czyszczenie rynien"
+msgstr ""
+
+#: offer-page.php:38
+msgid ""
+"Dach każdego budynku, po dłuższym wystawieniu na warunki atmosferyczne i "
+"zanieczyszczenia, zaczyna tracić swój pierwotny wygląd. Pojawiają się na nim "
+"warstwy zabrudzeń, mech, a nawet pleśń. Zazielenienie jest szczególnie "
+"widoczne w miejscach zacienionych i wilgotnych, a porosty, które z czasem "
+"pokryją cały dach, mogą przyspieszyć erozję dachówek lub blachy. Jedynym "
+"sposobem, aby temu zapobiec, jest regularne profesjonalne mycie dachu co "
+"kilka lat.\n"
+"\n"
+"Aby odświeżyć wygląd swojego dachu, oferujemy kompleksowe mycie dachówek "
+"ceramicznych, cementowych i blachy. Do tego celu używamy specjalistycznych "
+"myjek wysokociśnieniowych, gorącej wody oraz odpowiednio dobranych "
+"detergentów. Nasi specjaliści wiedzą, jakie środki najlepiej sprawią się "
+"podczas czyszczenia dachu, aby uzyskać trwały efekt.\n"
+"\n"
+"Jeśli jesteś ciekaw, jakie będą efekty, zapraszamy do skontaktowania się z "
+"nami i przekonania się na własnej skórze, jak wygląda czyszczenie dachów w "
+"zachodniopomorskim. Zachęcamy również do skorzystania z naszych usług "
+"impregnacji, która zabezpieczy Twój dach na kilka kolejnych lat."
+msgstr ""
+
+#: front-page.php:19
+msgid "dachów i elewacji"
+msgstr ""
+
+#: front-page.php:23
+msgid ""
+"Dachów, Elewacji, Kostki brukowej, fotowoltaiki, szyb i przeszkleń, usuwanie "
+"grafiti"
+msgstr ""
+
+#: front-page.php:132
+msgid ""
+"Elewacja każdego domu ulega zabrudzeniu po kilku latach. Warunki "
+"atmosferyczne, otoczenie oraz jakość materiałów użytych do ocieplenia mają "
+"na nią największy wpływ."
+msgstr ""
+
+#: offer-page.php:60
+msgid ""
+"Elewacja każdego domu ulega zabrudzeniu po kilku latach. Warunki "
+"atmosferyczne, otoczenie oraz jakość materiałów użytych do ocieplenia mają "
+"na nią największy wpływ. Jeśli dom znajduje się blisko wysokich drzew i "
+"część elewacji jest zacieniona, to pojawią się grzyby, mchy czy porosty, "
+"które pogarszają wygląd ścian i wymagają renowacji.\n"
+"\n"
+"Aby przywrócić świeżość każdego domu z zewnątrz, oferujemy mycie elewacji "
+"metodą niskociśnieniową, wykorzystując specjalistyczny sprzęt oraz "
+"biodegradowalne płyny. Na życzenie klienta, po wyczyszczeniu elewacji, "
+"wykonujemy również impregnację tynku. "
+msgstr ""
+
+#. Name of the template
+msgid "Gallery"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://web.fixars.pl"
+msgstr ""
+
+#: footer.php:65 front-page.php:139
+msgid "Impregnacja posesji"
+msgstr ""
+
+#: offer-page.php:70
+msgid "Impregnacja powierzchni "
+msgstr ""
+
+#: template-parts/content-archive.php:25 template-parts/content.php:30
+msgid "Kategorie"
+msgstr ""
+
+#: cennik-page.php:27 cennik-page.php:63 cennik-page.php:97 cennik-page.php:130
+#: cennik-page.php:165 cennik-page.php:200
+msgid "Każde zlecenie wyceniamy indywidualnie"
+msgstr ""
+
+#: contact-page.php:15 contact-page.php:18 footer.php:56 footer.php:56
+#: front-page.php:26
+msgid "Kontakt"
+msgstr ""
+
+#: front-page.php:26
+msgid "Kontakt z nami"
+msgstr ""
+
+#: front-page.php:122
+msgid ""
+"Kostka brukowa z betonu to popularny materiał do tworzenia trwałych "
+"chodników. Niestety, ze względu na swoją szorstką powierzchnię, łatwo ulega "
+"zabrudzeniu i wchłania wodę, co powoduje, że szybko traci swój estetyczny "
+"wygląd."
+msgstr ""
+
+#: offer-page.php:50
+msgid ""
+"Kostka brukowa z betonu to popularny materiał do tworzenia trwałych "
+"chodników. Niestety, ze względu na swoją szorstką powierzchnię, łatwo ulega "
+"zabrudzeniu i wchłania wodę, co powoduje, że szybko traci swój estetyczny "
+"wygląd. Plamy z oleju, opon, sadza i mech to niekorzystne dodatki, które "
+"znacznie wpływają na wygląd podjazdu czy parkingu.\n"
+"Dlatego oferujemy kompleksowe czyszczenie kostki brukowej, niezależnie od "
+"tego, czy to chodnik, podjazd czy parking. Aby to zrobić, stosujemy "
+"specjalne narzędzia, takie jak zamknięte nakładki Mosmatic, które "
+"zminimalizują rozbryzgi błota, a także odkurzacze przemysłowe z funkcją "
+"odpompowywania wody wraz z nieczystościami.\n"
+"Po dokładnym czyszczeniu, zaspoinujemy kostkę wypłukanym kwarcowym piaskiem "
+"i zabezpieczymy ją dwiema warstwami silikatowo-polimerowych impregnatów, aby "
+"zapewnić trwałą ochronę przed zanieczyszczeniami i przedłużyć jej żywotność."
+msgstr ""
+
+#: front-page.php:18
+msgid "Malowanie"
+msgstr ""
+
+#: front-page.php:16
+msgid ""
+"Malowanie dachów i elewacji,\n"
+"Mycie Wysokociśnieniowe"
+msgstr ""
+
+#: front-page.php:20
+msgid "Mycie"
+msgstr ""
+
+#: offer-page.php:37
+msgid "Mycie Dachów"
+msgstr ""
+
+#: footer.php:68 front-page.php:108
+msgid "Mycie dachów"
+msgstr ""
+
+#: footer.php:64
+msgid "Mycie hal"
+msgstr ""
+
+#: front-page.php:149 offer-page.php:29
+msgid "Mycie hal przemysłowych"
+msgstr ""
+
+#: cennik-page.php:25
+msgid "Mycie i czyszczenie elewacji "
+msgstr ""
+
+#: cennik-page.php:61
+msgid "Mycie i czyszczenie oszkleń i fotowoltaiki wodą zdemiralizowaną"
+msgstr ""
+
+#: cennik-page.php:163
+msgid "Mycie i malowanie dachów"
+msgstr ""
+
+#: front-page.php:57
+msgid "Najnowoczeszniejszy sprzęt"
+msgstr ""
+
+#: archive.php:31 index.php:37
+msgid "Next"
+msgstr ""
+
+#: 404.php:12
+msgid "Nie ma takiej strony... wpisano nieprawidłowy adres "
+msgstr ""
+
+#: index.php:42
+msgid "Nothing to display."
+msgstr ""
+
+#: footer.php:53
+msgid "O nas"
+msgstr ""
+
+#: footer.php:54 footer.php:61 offer-page.php:16 offer-page.php:19
+msgid "Oferta"
+msgstr ""
+
+#: footer.php:64 footer.php:65 footer.php:66 footer.php:67 footer.php:68
+#: front-page.php:113 front-page.php:123 front-page.php:133 front-page.php:143
+#: front-page.php:153
+msgid "Oferta/"
+msgstr ""
+
+#. Name of the template
+msgid "Offer"
+msgstr ""
+
+#: template-parts/content-archive.php:21 template-parts/content.php:26
+msgid "Opublikowany przez"
+msgstr ""
+
+#: template-parts/content-single.php:22
+msgid "Pages"
+msgstr ""
+
+#: front-page.php:75
+msgid "Posiadamy wolne terminy - zadzwoń/ napisz i umów się na usługę! "
+msgstr ""
+
+#: front-page.php:58
+msgid "Pracujemy tylko na najlepszych narzędziach i sprawdzonej chemii!"
+msgstr ""
+
+#: archive.php:30 index.php:36
+msgid "Previous"
+msgstr ""
+
+#: cennik-page.php:222 footer.php:55 footer.php:55 front-page.php:178
+#: gallery-page.php:19 gallery-page.php:22 offer-page.php:89
+msgid "Realizacje"
+msgstr ""
+
+#: front-page.php:66
+msgid "Setki zaufanych klientów"
+msgstr ""
+
+#: cennik-page.php:222 front-page.php:178 offer-page.php:89
+msgid "Sprawdź Realizacje"
+msgstr ""
+
+#: cennik-page.php:221 front-page.php:177 offer-page.php:88
+msgid "Sprawdź wykonane prace, przez naszych specjalistów"
+msgstr ""
+
+#: contact-page.php:17 footer.php:52 gallery-page.php:21 offer-page.php:18
+msgid "Strona główna"
+msgstr ""
+
+#: footer.php:95
+msgid "Stworzone przez "
+msgstr ""
+
+#: template-parts/content-archive.php:29 template-parts/content.php:34
+msgid "Tagi"
+msgstr ""
+
+#: contact-page.php:51 footer.php:78
+msgid "Telefon"
+msgstr ""
+
+#: functions.php:11
+msgid "Ustawienia Szablonu"
+msgstr ""
+
+#: cennik-page.php:128
+msgid "Usuwanie grafiti"
+msgstr ""
+
+#: front-page.php:152
+msgid ""
+"W produkcji bardzo ważne jest utrzymanie wysokich standardów higieny oraz "
+"regularne usuwanie kurzu i brudu z powierzchni. Codzienne sprzątanie nie "
+"wystarcza, aby zapobiec zanieczyszczeniu produktów i utrzymaniu czystości w "
+"miejscach trudno dostępnych"
+msgstr ""
+
+#: offer-page.php:30
+msgid ""
+"W produkcji bardzo ważne jest utrzymanie wysokich standardów higieny oraz "
+"regularne usuwanie kurzu i brudu z powierzchni. Codzienne sprzątanie nie "
+"wystarcza, aby zapobiec zanieczyszczeniu produktów i utrzymaniu czystości w "
+"miejscach trudno dostępnych, takich jak ściany, sufity, konstrukcje, maszyny "
+"i inne elementy infrastruktury hali. Kompleksowe czyszczenie hal "
+"produkcyjnych jest niezbędne, aby uniknąć awarii maszyn i poprawić wydajność "
+"produkcji. Od wielu lat oferujemy specjalistyczne usługi czyszczenia hal "
+"produkcyjnych i innych obiektów przemysłowych, bez przerywania produkcji."
+msgstr ""
+
+#: front-page.php:142
+msgid ""
+"Współcześnie prawie każdy dom posiada elewację pokrytą tynkiem, dach pokryty "
+"dachówką oraz kostkę brukową na posesji. Niestety, te popularne materiały "
+"mają jedną wspólną wadę - są bardzo chłonne, co sprzyja pojawieniu się mchów,"
+" plam, wykwitów i innych zanieczyszczeń wraz z wilgocią."
+msgstr ""
+
+#: offer-page.php:71
+msgid ""
+"Współcześnie prawie każdy dom posiada elewację pokrytą tynkiem, dach pokryty "
+"dachówką oraz kostkę brukową na posesji. Niestety, te popularne materiały "
+"mają jedną wspólną wadę - są bardzo chłonne, co sprzyja pojawieniu się mchów,"
+" plam, wykwitów i innych zanieczyszczeń wraz z wilgocią.\n"
+"Aby zapewnić trwałość i estetyczny wygląd wszystkich powierzchni "
+"wymienionych wyżej, proponujemy impregnację. Dzięki swoim właściwościom "
+"hydrofobowym, zapobiega ona pojawieniu się korozji biologicznej. Impregnat "
+"wnika w głąb materiału, tworząc warstwę odporną na ścieranie i trwałą "
+"ochronę przed wilgocią, wykwitami wapiennymi i wszelkimi zanieczyszczeniami."
+"\n"
+"Zapewnia również zwiększoną mrozoodporność, uwydatnia kolor, chroni przed "
+"solami z kół podczas zimy. W przypadku impregnacji kostki brukowej, "
+"zapobiega wsiąkaniu olejów, np. z uszkodzonego samochodu. "
+msgstr ""
+
+#: front-page.php:21
+msgid "wysokociśnieniowe"
+msgstr ""
+
+#: front-page.php:67
+msgid ""
+"Zaufało nam tysiące firm i osób, dołącz do grona zadowolonych klinetów! "
+msgstr ""
+
+#: front-page.php:74
+msgid "Zawsze na czas"
+msgstr ""
+
+#: cennik-page.php:220 front-page.php:176 offer-page.php:87
+msgid "Zobacz co zrobiliśmy"
+msgstr ""
+
+#: front-page.php:123 front-page.php:133 front-page.php:143 front-page.php:153
+msgid "Zobacz więcej"
+msgstr ""
+
+#: front-page.php:113
+msgid "Zobacz więcej "
+msgstr ""
+
+#. Author of the theme
+msgid "Łukasz Rostalski"
+msgstr ""
